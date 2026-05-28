@@ -1,5 +1,5 @@
 # Hi👋, I'm Shweta Randive
-<hr>
+
 About Me
 💻 Computer Engineering Student  
 🚀 Learning Backend Development  
@@ -7,12 +7,12 @@ About Me
 📚 Currently studying DSA
 
 ## 🚀 Tech Stack
-<hr>
-Programming Languages
-![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java)
 
-Frontend 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
+![Programming Language](https://skillicons.dev/icons?i=c,cpp,python,java)
+
+<br>
+[![Frontend](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 <hr>
 Database
