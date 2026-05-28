@@ -1,12 +1,12 @@
 # Hi👋, I'm Shweta Randive
 
 About Me
-<br>
+<br><br>
 💻 Computer Engineering Student  
 🚀 Learning Backend Development  
 🌩️ Interested in AWS & DevOps  
 📚 Currently studying DSA
-
+<br><hr>
 ## 🚀 Tech Stack
 
 Programming Languages
