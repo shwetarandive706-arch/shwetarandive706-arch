@@ -1,6 +1,7 @@
 # Hi👋, I'm Shweta Randive
 
 About Me
+<br>
 💻 Computer Engineering Student  
 🚀 Learning Backend Development  
 🌩️ Interested in AWS & DevOps  
@@ -8,12 +9,12 @@ About Me
 
 ## 🚀 Tech Stack
 
-
+Programming Languages
+<br>
 ![Programming Language](https://skillicons.dev/icons?i=c,cpp,python,java)
 
-<br>
-[![Frontend](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+Frontend
+![My Skills](https://skillicons.dev/icons?i=html,css)
 
-<hr>
 Database
-[![My Skills](https://skillicons.dev/icons?i=mysql&perline=3)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=mysql&perline=3)
