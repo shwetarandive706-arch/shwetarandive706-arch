@@ -10,11 +10,13 @@ About Me
 ## 🚀 Tech Stack
 
 Programming Languages
-<br>
+<br><br>
 ![Programming Language](https://skillicons.dev/icons?i=c,cpp,python,java)
 
 Frontend
+<br><br>
 ![My Skills](https://skillicons.dev/icons?i=html,css)
 
 Database
+<br><br>
 ![My Skills](https://skillicons.dev/icons?i=mysql&perline=3)
