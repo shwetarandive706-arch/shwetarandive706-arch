@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi👋, I'm Shweta Randive
+<hr>
+About Me
+💻 Computer Engineering Student  
+🚀 Learning Backend Development  
+🌩️ Interested in AWS & DevOps  
+📚 Currently studying DSA
 
-<!--
-**shwetarandive706-arch/shwetarandive706-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tech Stack
+<hr>
+Programming Languages
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java)
 
-Here are some ideas to get you started:
+Frontend 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+Database
+[![My Skills](https://skillicons.dev/icons?i=mysql&perline=3)](https://skillicons.dev)
